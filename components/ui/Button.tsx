@@ -9,7 +9,7 @@ const buttonVariants = cva(
             variant: {
                 default: 'bg-blue-violet hover:bg-blue-violet/80 text-concrete',
                 outline:
-                    'border border-ebony/10 text-ebony/60 hover:border-medium-purple hover:text-ebony/80',
+                    'border border-ebony/10 dark:border-concrete/30 text-ebony/60 dark:text-concrete/80 hover:border-medium-purple dark:hover:border-water-leaf hover:text-ebony/80 dark:hover:text-concrete',
             },
             size: {
                 default: 'text-sm px-4 py-2',
