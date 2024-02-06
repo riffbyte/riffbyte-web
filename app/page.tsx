@@ -46,7 +46,7 @@ export default function Home() {
                         <ButtonLink
                             size="icon"
                             variant="outline"
-                            href="https://github.com/oleg-semyonov"
+                            href="https://github.com/riffbyte"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
