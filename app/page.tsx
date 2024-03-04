@@ -26,7 +26,7 @@ export default function Home() {
                 </h1>
 
                 <h2 className="text-lg opacity-70">
-                    Full Stack Developer <span className="block">based in Tbilisi, Georgia</span>
+                    Frontend Developer <span className="block">based in Tbilisi, Georgia</span>
                 </h2>
 
                 <ul className="flex items-center justify-center gap-4">
